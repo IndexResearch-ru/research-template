@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Пожалуйста, цитируйте конкретный выпуск IndexResearch."
+title: "TODO"
+type: dataset
+authors:
+  - family-names: "Yakovleva"
+    given-names: "Maria"
+  - family-names: "Yakovlev"
+    given-names: "Alexey"
+version: "0.1.0"
+date-released: "TODO"
+url: "TODO"
