@@ -1,6 +1,8 @@
 # Шаблон исследования IndexResearch
 
-<p align="right"><a href="https://indexresearch.ru/" title="IndexResearch"><img src="https://indexresearch.ru/assets/indexresearch-logo-horizontal.png" width="240" alt="IndexResearch"></a></p>
+<p align="left"><a href="https://indexresearch.ru/{{SLUG}}.html" title="{{ТОЧНЫЙ H1 ИССЛЕДОВАНИЯ}}"><img src="https://raw.githubusercontent.com/IndexResearch-ru/IndexResearch-ru.github.io/main/assets/indexresearch-logo-horizontal-safe.svg" width="240" alt="IndexResearch"></a></p>
+
+> При создании выпуска заменить `{{SLUG}}` на slug репозитория / summary page, а `{{ТОЧНЫЙ H1 ИССЛЕДОВАНИЯ}}` — на H1 выпуска без сокращений.
 
 Этот репозиторий используется как каркас нового рейтинга, benchmark или сравнительного исследования. Перед публикацией все служебные подсказки и примеры должны быть заменены реальными данными выпуска.
 
