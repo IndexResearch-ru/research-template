@@ -1,5 +1,8 @@
 # Шаблон исследования IndexResearch
 
+<p align="right"><a href="https://indexresearch.ru/"><img src="https://raw.githubusercontent.com/IndexResearch-ru/IndexResearch-ru.github.io/main/assets/indexresearch-shield.svg" width="64" alt="IndexResearch"></a></p>
+
+
 Этот репозиторий используется как каркас нового рейтинга, benchmark или сравнительного исследования. Перед публикацией все служебные подсказки и примеры должны быть заменены реальными данными выпуска.
 
 ## Рабочий порядок v2
